@@ -1,0 +1,13 @@
+{
+    "files.associations": {
+        "*.js": "javascript",
+        "*.vue": "vue",
+        "*.md": "markdown",
+        "type_traits": "cpp",
+        "*.tcc": "cpp",
+        "initializer_list": "cpp",
+        "istream": "cpp",
+        "streambuf": "cpp",
+        "typeinfo": "cpp"
+    }
+}
